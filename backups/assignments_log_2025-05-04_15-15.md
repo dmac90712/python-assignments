@@ -3,33 +3,27 @@
 
 - **Module 1 Lab 1: Setup Slack Account and App**  
   📅 Due: Apr 28, 2025  
-  🔖 Status: Complete
-  📅 Completed: 2025-04-28
+  🔖 Status: Not Started
 
 - **Module 1 Lab 2: Test Your Knowledge**  
   📅 Due: Apr 28, 2025  
-  🔖 Status: Complete
-  📅 Completed: 2025-04-28
+  🔖 Status: Not Started
 
 - **Module 2 Lab 1: Install Anaconda & Hello World**  
   📅 Due: Apr 28, 2025  
-  🔖 Status: Complete
-  📅 Completed: 2025-04-28
+  🔖 Status: Not Started
 
 - **Module 2 Lab 2: Python Overview**  
   📅 Due: Apr 28, 2025  
-  🔖 Status: Complete
-  📅 Completed: 2025-04-28
+  🔖 Status: Not Started
 
 - **Module 3 Lab 1: Data & Pandas **  
   📅 Due: May 05, 2025  
-  🔖 Status: Complete
-  📅 Completed: 2025-05-04
+  🔖 Status: Not Started
 
 - **Module 4 Lab 1: Hands on EDA**  
   📅 Due: May 05, 2025  
-  🔖 Status: Complete
-  📅 Completed: 2025-05-04
+  🔖 Status: Not Started
 
 - **Module 5 Lab 1: Data Preprocessing and Feature Selection**  
   📅 Due: May 12, 2025  
