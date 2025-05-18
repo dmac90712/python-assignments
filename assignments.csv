@@ -1,6 +1,16 @@
-title,due,status
-"Module 5 Quiz",2025-05-12,Completed
-"Chapter 10 Summary",2025-05-15,In Progress
-"Canvas Lab: Data Cleaning",2025-05-18,Not Started
-"Final Project Proposal",2025-05-20,Not Started
-"Midterm Reflection",2025-05-10,Completed
+module,assignment_name,status
+Module 1 Lab 1,module1_lab1.ipynb,Complete
+Module 1 Lab 2,module1_lab2.ipynb,Complete
+Module 1 Quiz,module1_quiz.pdf,Complete
+Module 2 Lab 1,module2_lab1.ipynb,Complete
+Module 2 Lab 2,module2_lab2.ipynb,Complete
+Module 2 Quiz,module2_quiz.pdf,Complete
+Module 3 Lab 1,module3_lab1.ipynb,Complete
+Module 4 Lab 1,module4_lab1.ipynb,Complete
+Module 5 Lab 1,module5_lab1.ipynb,Complete
+Module 6 Lab 1,derekmccrarymod6lab1.ipynb,Complete
+Module 6 Lab 2,derekmccrary_mod6lab2.ipynb,Complete
+Module 6 Quiz,module6_quiz.pdf,Complete
+Module 7 Lab 1,module7_lab1.ipynb,Complete
+Module 7 Quiz,module7_quiz.pdf,Complete
+
